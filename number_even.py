@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of even digits in it.
-number =  3732
+number =  2465
 counter = 0 
 #Create a variable "var_int" and assign it a four-digit integer value.
 x1 = number % 10 
